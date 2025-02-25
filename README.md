@@ -1,2 +1,2 @@
 # xiangz-nudt.github.io
-This is the homepage of Prof. Xiang Zhao, PhD UNSW. He is currently with College of Systems Engineering, National University of Defense Technology (NUDT), and his research interests include Knowledge Graphs, Graph Data Analytics, and Natural Language Processing. Thank you for visting.
+This is the homepage of Prof. Changjun Fan, PhD NUDT. He is currently an associate professor with College of Systems Engineering, National University of Defense Technology (NUDT), and his research interests include Graph Machine Learning, Combinatorial Optimization, Reinforcement learning, and Large Language Model. Thank you for visting.
