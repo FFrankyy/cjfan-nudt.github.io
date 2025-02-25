@@ -7,7 +7,7 @@
     <meta name="keywords" content="Changjun Fan,NUDT,UCLA, graph machine learning, graph data, deep learning, combinatorial optimization, reinforcement learning, complex networks, Yizhou Sun, Yang-Yu Liu, 范长俊,国防科大,图机器学习,图数据,深度学习,组合优化,强化学习,复杂网络,孙怡舟,刘洋彧,陈晓红,吴俊杰,曾大军,刘忠,黄金才,王怀民,张维明,赵翔,王锐,吕欣,严骏驰,王杰,郭德科" /> 
     <meta name="description" content="Welcome to Changjun Fan's Personal Homepage! Ph.D., National University of Defense Technology (NUDT); Assoc. Prof., National University of Defense Technology (NUDT)" />
     <meta name="google-site-verification" content="e8QBQDtgOAVTuMNJp-5g7BJoPB34wMEFcz0RBBmo5B8" />
-    %https://scholar.google.com/citations?user=z0Keb0sAAAAJ&hl=zh-CN
+    https://scholar.google.com/citations?user=z0Keb0sAAAAJ&hl=zh-CN
     <meta name="baidu-site-verification" content="3FTe6ikuh9" />
   </head>
   
